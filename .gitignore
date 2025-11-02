@@ -1,0 +1,15 @@
+# Java / Maven
+target/
+*.iml
+*.class
+*.log
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Videos / temp
+*.mp4
+*.mov
+*.zip
